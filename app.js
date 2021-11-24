@@ -63,8 +63,3 @@ app.post("/success", function(req,res){
 app.listen(3000, function(){
 	console.log("Port Running On 3000");
 });
-
-
-
-//e7183214dcdfb24a00f337c6406c3cb5-us20
-//725bb0ff30
